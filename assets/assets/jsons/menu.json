@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Beef Noodle Soup",
+        "description": "A hearty soup made with tender beef, noodles, and vegetables.",
+        "meal": "beef",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_noodle_soup.png",
+        "price": 9.99
+    },
+    {
+        "id": 2,
+        "title": "Chicken Lo Mein",
+        "description": "Stir-fried noodles with juicy chicken and fresh vegetables.",
+        "meal": "chicken",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_lo_mein.jpg",
+        "price": 8.99
+    },
+    {
+        "id": 3,
+        "title": "Pork Fried Rice",
+        "description": "Fluffy white rice stir-fried with savory pork and vegetables.",
+        "meal": "pork",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/pork_fried_rice.jpg",
+        "price": 7.99
+    },
+    {
+        "id": 4,
+        "title": "Vegetable Chow Mein",
+        "description": "A delicious mix of stir-fried vegetables and noodles.",
+        "meal": "vegetarian",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/vegetable_chow_mein.png",
+        "price": 6.99
+    },
+    {
+        "id": 5,
+        "title": "Spicy Garlic Shrimp",
+        "description": "Tender shrimp sauteed with garlic and spicy chili peppers.",
+        "meal": "none",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/spicy_garlic_shrimp.jpg",
+        "price": 11.99
+    },
+    {
+        "id": 6,
+        "title": "Mushroom and Tofu Stir Fry",
+        "description": "A vegetarian dish with savory mushrooms and tofu, stir-fried to perfection.",
+        "meal": "vegetarian",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/mushroom_tofu_stir_fry.jpg",
+        "price": 8.99
+    },
+    {
+        "id": 7,
+        "title": "Beef and Broccoli",
+        "description": "Thin slices of tender beef stir-fried with crisp broccoli in a savory sauce.",
+        "meal": "beef",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_broccoli.jpg",
+        "price": 10.99
+    },
+    {
+        "id": 8,
+        "title": "General Tso's Chicken",
+        "description": "Crispy fried chicken in a sweet and spicy sauce, served with steamed rice.",
+        "meal": "chicken",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/general_tsos_chicken.png",
+        "price": 9.99
+    },
+    {
+        "id": 9,
+        "title": "Shrimp Fried Rice",
+        "description": "Classic fried rice with succulent shrimp, scrambled eggs, and fresh vegetables.",
+        "meal": "none",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/shrimp_fried_rice.jpg",
+        "price": 12.99
+    },
+    {
+        "id": 10,
+        "title": "Ma Po Tofu",
+        "description": "A spicy Sichuan dish made with tofu, minced meat, and chili bean sauce.",
+        "meal": "pork",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/ma_po_tofu.jpg",
+        "price": 11.99
+    }
+]
